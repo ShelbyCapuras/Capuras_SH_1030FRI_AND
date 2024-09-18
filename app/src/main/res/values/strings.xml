@@ -1,0 +1,164 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+    <string name="news_image">News Image</string>
+    <string name="news_detail_image">News Detail Image</string>
+    <string name="news_headline_1">Cordilleras weaken Gener,\n Signal no 1 still up in northern Metro Manila</string>
+    <string name="news_detail_1">
+        Tropical cyclone wind signal no. 1 remains hoisted in northern Metro Manila and parts of Luzon Tuesday morning even as Tropical Depression Gener weakened after interacting with the Cordilleras.\nIn its 8 a.m. advisory, weather bureau PAGASA said the following areas are under TCWS no. 1:\n
+        Cagayan including Babuyan Islands,\nIsabela,\nQuirino,\nNueva Vizcaya,\nApayao,\nKalinga,\nAbra,\nIfugao, Mountain Province,\nBenguet,\nIlocos Norte,\nIlocos Sur,\nLa Union,\nPangasinan,\nZambales,\nTarlac,\nNueva Ecija,\nPampanga,\nBulacan,\nthe northern and central portions of Bataan (Dinalupihan, Orani, Hermosa), Aurora,\n
+        the northern portion of Quezon (General Nakar, Infanta) including Polillo Islands,\nthe northern portions of Rizal (Rodriguez, San Mateo),\nand the northern portion of Metro Manila (Quezon City, Caloocan City, City of Valenzuela, City of Malabon, City of Navotas, City of Marikina, City of Manila, City of San Juan, City of Mandaluyong)\n\n
+        The following local government units in Metro Manila earlier suspended classes for the day:\n
+        Marikina -  All levels (public and private)\n
+        San Juan - All levels (public and private)\n
+        Quezon City - Daycare to Senior HS (public and private)\n
+        Manila - Kinder to Grade 12\n
+        Navotas - Kinder to Grade 12\n
+        Valenzuela - Kinder to Grade 12\n
+        Malabon - Kinder to Grader 12\n
+        Mandaluyong - Kinder to Grade 12\n\n
+        Other areas that have suspended classes are as follows:\n
+        Camarines Sur (public at private)\n
+        Dagupan City (public at private)\n
+        Ilocos Sur (public at private)\n
+        Negros Occidental\n
+        - Silay City (public at private)\n
+        Nueva Ecija\n
+        - Gapan City (public at private)\n
+        Nueva Vizcaya (public at private)\n
+        Palawan\n
+        - Coron (public at private)\n
+        Occidental Mindoro\n
+        - Magsaysay (public at private)\n
+        Tarlac\n
+        - Tarlac City (public at private)\n
+        Pangasinan (public at private)\n
+        Quirino Province (public at private)\n\n
+        Classes from pre-school to senior high school are also suspended in the following areas:\n
+        Iloilo City (face-to-face classes only; public at private)\n
+        Tarlac\n
+        - Capas (public at private)\n\n
+        As of 7 a.m., the center of Tropical Depression Gener was estimated based on all available data in the vicinity of Ambaguio, Nueva Vizcaya. Packing 45 kph winds and gusts of up to 55 kph, Gener is moving southwestward at 15 kph.\n\n
+        Gener is forecast to emerge over the coastal waters of Ilocos Sur or La Union today and may exit the Philippine Area of Responsibility (PAR) between Tuesday night and Wednesday morning.\n\n
+        The tropical cyclone will then move generally westward over the West Philippine Sea until Thursday (19 September) before turning west northwestward as it heads towards southern China.\n\n
+        GENER ENHANCES HABAGAT\n\n
+        The southwest monsoon enhanced by Gener and Pulasan will also bring strong to gale-force gusts over the following areas (especially in coastal and upland areas exposed to winds):\n
+        • Today (17 September): Batanes, MIMAROPA, Bicol Region, Visayas, and Mindanao.\n
+        • Tomorrow (18 September): Zambales, Bataan, Pampanga, Bulacan, Metro Manila, CALABARZON, MIMAROPA, Bicol Region, Visayas, and Mindanao.\n
+        • Thursday (19 September): Isabela, Aurora, Pangasinan, Zambales, Bataan, Metro Manila, CALABARZON, MIMAROPA, Bicol Region, Western Visayas, and Caraga\n
+        Gale Warning is in effect over several coastal waters in the northern seaboard of Northern Luzon, the western and southern seaboards of Southern Luzon, the seaboards of Visayas, and the western, northern, and eastern seaboards of Mindanao.\n\n
+    </string>
+    <string name="news_headline_2">Senate probe on banks failure to\n flag POGO-related suspicious\n transactions urged</string>
+    <string name="news_detail_2">A resolution seeking to investigate the apparent failure of local banks to flag POGO-related suspicious transactions linked to criminal activities in the country has been sought.\n\n
+        Senator Sherwin Gatchalian has filed proposed Senate Resolution 1193 amid the case of former Bamban, Tarlac Mayor Alice Guo, also tagged as Chinese national Guo Hua Ping.\n\n
+        In the said resolution, Gatchalian noted the existence of bank transactions involving the companies of Guo amounting to "hundreds of millions of pesos" which supposedly enabled the construction and establishment of the POGO hub in Bamban.\n\n
+        Such amount is far beyond what the financial statements indicated in the financial capacity of these companies, Gatchalian noted.\n\n
+        He added that a remarkable surge of cash flows, check disbursement, and a number of transactions involving Guo accounts was highest in 2020 which was "highly unusual and suspicious" considering that the COVID-19 pandemic paralyzed businesses and economies worldwide.\n\n
+        "These transactions involving significant amounts of money were coursed through the banking system and unfortunately, were not flagged by the concerned banks and financial institutions," Gatchalian said.\n\n
+        "Such failure of these banks to report these dubious transactions raises matter of the effectiveness of their internal controls and procedures for identifying and reporting suspicious transactions," he added\n\n
+        Gatchalian emphasized that it is incumbent upon financial institutions to collect and analyze financial data to identify suspicious transactions and patterns that may indicate money laundering.\n\n
+        "These circumstances raise questions on the adequacy of existing Anti Money Laundering and Counter-Terrorism Financing (AML/CTF) regulations and guidelines for banks and financial institutions," he said.\n\n
+        The lawmaker also noted that the Philippines remains to be in the grey list of the Financial Action Task Force (FATF) and the country needs to enhance AML/CTF activities through actions involving money laundering and terrorism financing prosecution, beneficial ownership information, cross border declaration measures, among others.\n\n
+        While President Ferdinand "Bongbong" Marcos jr. has directed all government agencies to complete all the deliverables for the country\'s removal from FATF\'s grey list, Gatchalian said the private sector\'s support and compliance are crucial in the collective effort to strengthen the country\'s AML/CFT regime.\n\n
+    </string>
+    <string name="news_headline_3">Alice Guo admits signing counter-\naffidavit before fleeing PH</string>
+    <string name="news_detail_3">MANILA, Philippines – Dismissed Bamban Mayor Alice Guo admitted signing the last page of her counter-affidavit on the human trafficking complaint filed against her by the Department of Justice before she fled the country.\n\n
+        The document in question was dated August 14, days after Guo escaped from Philippine jurisdiction on July 18.\n
+        At the Senate panel on women’s Tuesday probe, Sen. Sherwin Gatchalian pressed Guo’s close aide to disclose how the ousted mayor was able to sign the document dated August 14 if she had already left the Philippines on July 18.\n\n
+        Cath Salazar, Guo’s secretary and alleged “doppelganger,” said Guo instructed her to retrieve a brown envelope in the former mayor’s house in Bamban, Tarlac.\n
+        “Tumawag po siya, your honor, ang sabi po niya [ay] pumunta raw po ako sa bahay niya [at] may kukuhanin pong isang brown envelope. Noong nakuha ko na po ‘yun, nag-message po ako sa kanya kung anong gagawin ko roon,” Salazar said.\n\n
+    </string>
+    <string name="news_headline_4">Quiboloy undeserving of house arrest for\n obstructing authorities, Remulla says</string>
+    <string name="news_detail_4">MANILA, Philippines — Justice Secretary Jesus Crispin Remulla said Kingdom of Jesus Christ (KOJC) leader Apollo Quiboloy is not deserving of house arrest because he “made it difficult” for authorities to take him into custody.\n\n
+        Although the decision to place Quiboloy under house arrest depends on the courts, Remulla said those who are usually given this are those who voluntarily surrender themselves to authorities.\n\n
+        “Those who hid and made it difficult for the government to take them into custody are not usually allowed house arrest,” he added.\n\n
+        Remulla said “it does not appear” that Quiboloy voluntarily surrendered to the authorities, noting that it took the police 16 days to search for him in the KOJC compound in Davao City.\n\n
+        “Either he was going to get caught, thus his decision to surrender, or he was about to be arrested and decided to surrender. In either case, the spontaneity of his action is absent,” he added.\n\n
+        Defense lawyers earlier asked the court to place Quiboloy either on house arrest or to transfer him to the custody of the Armed Forces of the Philippines, citing security concerns and age.\n\n
+        Quiboloy, a septuagenarian facing sexual and child abuse cases before a Quezon City court and qualified trafficking cases before a Pasig City court, is being held at the Philippine National Police Custodial Center. — Daphne Galvez, Bella Cariaso, Mark Ernest Villeza\n\n
+    </string>
+    <string name="news_headline_5">Approved investments hit record-high\n P1.35 trillion</string>
+    <string name="news_detail_5">MANILA, Philippines — Investments for projects approved by the Board of Investments (BOI) in January until mid-September hit an all-time high of P1.35 trillion, surpassing last year’s total approvals amid strong investor interest in the country.\n\n
+        The BOI said the investments approved from January until Sept. 16 are higher than the record-high full year 2023 investment approvals amounting to P1.26 trillion.\n
+        The January to mid-September investment approvals are also up 82 percent from P741.98 billion in the same period last year.\n\n
+        The achievement of the investment approvals milestone coincides with the BOI’s 57th anniversary.\n
+        “As we celebrate our 57th anniversary, we are more inspired with the strong show of confidence by local and foreign investors in the Philippines, that has made it possible for BOI to hit the P1.3-trillion mark in investment approvals,” Trade Undersecretary and BOI managing head Ceferino Rodolfo said.\n\n
+        He said the accomplishment shows BOI’s unwavering commitment to nurture an environment to position the country as a prime investment destination for smart and sustainable manufacturing and services.\n\n
+        The energy sector, mainly renewable energy projects, continued to account for bulk of the investment approvals, accounting for P1.29 trillion.\n\n
+        Other top sectors include real estate activities (mass housing) at P20.28 billion; manufacturing at P12.13 billion; agriculture, forestry and fishing at P10.05 billion; and administrative and support service activities at P5.46 billion.\n\n
+        Approved investments from Filipino companies in the January to mid-September period reached P1 trillion, 221 percent higher than in the same period last year.\n
+        BOI-approved foreign investments from January to Sept. 16, meanwhile, amounted to P341.78 billion.\n\n
+        Topping the list of foreign investors was Switzerland with investments amounting to P286.77 billion.\n\n
+        Other leading sources of approved foreign investments are the Netherlands with P39.58 billion, Singapore with P6.18 billion, US with P1.68 billion and Taiwan with P1.30 billion.\n\n
+        By location, CALABARZON (Cavite-Laguna-Batangas-Rizal-Quezon) region was the biggest recipient of investments in the January to mid-September period with P602.63 billion, followed by Central Luzon (P258.68 billion), Western Visayas (P238.88 billion), Bicol Region (P142.87 billion) and Ilocos Region (P62.68 billion).\n\n
+    </string>
+    <string name="news_headline_6">Compliance woes stall Pag-IBIG home\n loan releases</string>
+    <string name="news_detail_6">MANILA, Philippines — The Home Development Mutual Fund, commonly known as Pag-IBIG Fund, is facing challenges in the release of its housing loans, with only a little over 50 percent of the target reached as of August.\n\n
+        In a briefing yesterday, Pag-IBIG Fund CEO Marilene Acosta said the agency is having difficulties in its home loans but remains confident that releases will pick up toward the end of the year.\n\n
+        In particular, home loan releases reached P77.3 billion in January to August, almost flat from the P76.94 billion in the same period last year.In particular, home loan releases reached P77.3 billion in January to August, almost flat from the P76.94 billion in the same period last year.\n\n
+        This is also equivalent to just 54 percent of the target P143 billion in home loans for 2024.\n\n
+        In 2023, Pag-IBIG’s full year target was at P129 billion but slightly fell short at P126 billion.\n\n
+        Acosta explained that Pag-IBIG is having problems in terms of compliance of critical documents among member-borrowers.\n\n
+        “Sometimes, the CI (credit investigation) and inspection is already done but there’s a problem in the register of deeds, annotation of mortgage. We already have the funding allocation, it’s just some are yet to comply with the requirements,” Acosta said.\n\n
+        “The delivery is huge but the compliance, which we cannot forgo, is the problem. We cannot just lend without having all those because we also have the COA (Commission on Audit) to consider,” she said.\n\n
+        Pag-IBIG’s exposure to socialized housing units which are meant for members from the minimum-wage and low-income sectors is also facing challenges.\n\n
+        Acosta said the amount of loans is increasing because of the higher cost from developers but the quantity is actually lower.\n\n
+        Pag-IBIG is also taking out a few thousand units for the Pambansang Pabahay Para sa Pilipino (4PH) program in certain areas in Rizal, Pampanga and Bulacan but is also awaiting the titles and other critical documents.\n\n
+        Nonetheless, Pag-IBIG remains confident that it will still hit the P143 billion target for the year even with barely four months left.\n\n
+        Pag-IBIG remains at the forefront in home financing as it accounts for nearly 40 percent of the total home mortgages in the country.\n\n
+        Under the Pag-IBIG’s Affordable Housing Program, eligible borrowers have a special subsidized rate of three percent per annum for home loans of up to P580,000 for socialized subdivision projects.\n\n
+        Standing out as the lowest interest in the loan market, Pag-IBIG first offered the subsidized rate five years ago to help more members, particularly those from the minimum-wage sector, have their homes.\n\n
+        Currently, Pag-IBIG has 16.24 million active members. Its total assets stood at P986 billion as of end-June.\n\n
+    </string>
+    <string name="news_headline_7">La Salle\'s Quiambao, UST\'s Pastrana\n earn UAAP weekly player honors</string>
+    <string name="news_detail_7">The UAAP Season 87 basketball wars have begun, and defending champions De La Salle Green Archers and UST Growling Tigresses right away are on top of the food chain in the men’s and women’s divisions with perfect 3-0 starts.\n\n
+        And in the middle of it all are stars Kevin Quiambao and Kent Pastrana.\n\n
+        With their stellar play for their respective teams, Quiambao and Pastrana have earned nods for the first Collegiate Press Corps UAAP Players of the Week awards for the period of September 7-15.\n\n
+        The two stars were also named the UAAP men’s and women’s basketball players of the year by the CPC in the offseason after leading La Salle and UST to the Season 86 crowns.\n\n
+        Quiambao, the 23-year-old reigning Most Valuable Player, averaged monster numbers of 18.7 points, 8.7 rebounds and 6.0 assists per game against NU, Adamson and Ateneo to grab the men’s weekly award backed by Discovery Suites and World Balance.\n\n
+        Against NU, he hit the game-winning 3-pointer as he sank nine of the last 14 points of the Taft-based cagers. He was also the charging force behind the Archers in a 30-point rout against the Soaring Falcons, and flirted with a triple-double against the Blue Eagles.\n\n
+        Quiambao got the unanimous vote over UP’s JD Cagulangan, UST’s Nic Cabanero and Adamson’s Monty Montebon.\n\n
+        But with his early outstanding play, the forward stressed that he and the team still have a lot to improve on.\n\n
+        “So far, lahat sa amin, marami pang pagkukulang, especially me, marami pa akong pagkukulang dahil bago nga lang ako sa leadership role. Pero kailangan lang namin na gawin namin yung best namin and control yung mako-control namin,” he said.\n\n\n
+        Over in women’s basketball, Pastrana’s huge performances against UE, Ateneo and Adamson put the Tigresses firmly ahead of the competition.\n\n
+        She averaged 16.7 points, 8.0 rebounds, 3.3 assists, 2.0 steals and 1.3 blocks per game in the stretch, which saw UST blow out its first two opponents before fending off Adamson on Sunday to stay unbeaten.\n\n
+        She edged out reigning women’s MVP Kacey dela Rosa of Ateneo, UP’s Louna Ozar and NU’s Camille Clarin to bag the distinction. \n\n
+        The 24-year-old winger voiced her readiness to lead by example as she assumed the leadership role for the Tigresses.\n\n
+        “Oo, meron talagang nagbago [sa mindset.] Unang una yung maturity talaga kasi yun nga sinasabi sa akin palagi ni coach ikaw yung isa sa leader sa loob ng court, kailangan mag-set ka ng tone so kung ano iyong ipinapakita mo sa loob,” she said.\n\n
+        “Lahat susunod talaga lalo na yung mga bata kasi yun nga magseset ka ng good example sa loob ng court as a veteran.”\n\n
+        La Salle will try to continue its winning ways in the men\'s tournament as it faces the UE Red Warriors on Sunday, September 22, at the SM Mall of Asia Arena. UST, for its part, aims to make it four in a row in women\'s play also against NU in last season’s Finals rematch on Saturday at the Smart Araneta Coliseum.\n\n
+    </string>
+    <string name="news_headline_8">New PBA 3-point record holder Lassiter\n named Player of the Week</string>
+    <string name="news_detail_8">MANILA, Philippines – Marcio Lassiter on Sunday made history by becoming the record holder for most 3-pointers made in PBA history when he buried six threes in San Miguel’s rout over Barangay Ginebra.\n\n
+        The 37-year-old Lassiter is now at No. 1 after Sunday’s game with 1,254, surpassing Jimmy Alapag, who had 1,250 in his career, after he made his second three in the first quarter of the Beermen’s 131-82 lopsided win over the Gin Kings.\n\n
+        Aside from setting the new PBA record, Lassiter also captured the Pilipinas Live-PBA Press Corps Player of the Week after regaining his true form to average 17 points and shoot 15-of-27 from threes for the period of September 10-15.\n\n
+        It was actually a slow start to the conference for Lassiter after he got food poisoning that got him ill during San Miguel’s opening game of the season against Phoenix last August 21, forcing him to miss the first two games of the team.\n\n
+        "As soon as I got sick, I wanted to be there for my teammates. But when you lose like 12 pounds, it’s kinda hard to get back to it and regain my strength,” Lassiter said.\n\n
+        “I didn’t have the legs. I was really feeling it. I was trying not to put pressure on myself because I knew part of it is I just wasn’t there yet strength-wise. Thankful for coach Jorge for trusting in me and I knew I had to back it up and just keep putting the hard work in,” he added.\n\n
+        Lassiter was back to his shooting ways last week.\n\n
+        On Wednesday, Lassiter also topped Allan Caidic to go up at second after making four in their 119-114 win over NLEX, then moved to two threes shy of tying Alapag by converting five in their 139-127 victory over Phoenix last Friday.\n\n
+        On setting the record in the first quarter against Ginebra, Lassiter said: “I’m just happy to get it over with so that I can really focus on the game because we have a big assignment against Ginebra. I’m just kinda happy that it is here. A lot of fans witnessed it. I’m happy for them.”\n\n
+        “I’m truly honored and blessed to be in this position. Words can’t describe how I feel. I’m overwhelmed with a lot of emotions right now,” said Lassiter, who edged the likes of Schonny Winston of Converge and teammates CJ Perez and June Mar Fajardo for the plum handed by reporters from broadsheets, tabloids, and online platforms covering the PBA beat.\n\n
+    </string>
+    <string name="news_headline_9">Kathryn Bernardo, Alden Richards\n Hello Love Again drops new teaser</string>
+    <string name="news_detail_9">MANILA, Philippines — Star Cinema released a new teaser for the "Hello, Love, Again," the upcoming sequel to "Hello, Love, Goodbye" starring Kathryn Bernardo and Alden Richards.\n\n
+        The production company shared on its social media accounts a promotional video paying tribute to past films involving overseas Filipino workers like "Anak," "Dubai," and the original film from 2019.\n\n
+        "Home is where the heart is, and saying goodbye is never easy. As we build our future, searching for a better life, the journey can take us around the world, giving us stories of sacrifice, hope, new beginnings," reads text in the video. "Para sa mga taong nangangarap, we say \'I love you\' by saying \'goodbye.\'"\n\n
+        With bits of the sequel scattered throughout the video, it ends with Alden\'s Ethan calling out and running toward Kathryn\'s Joy at the airport.\n\n
+        In the caption for the teasers, Star Cinema wrote, " "Soon, we will come home to the ones we love. We
+        \'ve barely said our hellos yet, but we can feel your overwhelming support already," giving thanks to all the fans eagerly waiting.\n\n
+        Once again directed by Cathy Garcia-Sampana and also starring Joross Gamboa, Kakai Bautista, Lito Pimentel, Lovely Abella, and Maymay Entrata, "Hello Love Again" hits Philippine cinemas on November 13.\n\n
+        The film continues the story of Ethan and Joy who met and fell in love in Hong Kong. Five years since Joy left Ethan in Hong Kong, they meet once more in Canada. \n\n
+    </string>
+    <string name="news_headline_10">Unilab Foundation explores academic partnership\n with Philippine Women’s University</string>
+    <string name="news_detail_10">MANILA, Philippines — Education, at its best, is more than just a pathway to personal success; it is the blueprint for a healthier, future-ready nation.\n\n
+        With a functional and efficient education system in place, the Philippines would have the power to produce a health-care workforce that is not only skilled enough to meet the country’s evolving health needs, but also deeply committed to the mission of serving the Filipino people.\n\n
+        Ultimately, the goals of Universal Health Care (UHC) would be within reach if a collaborative approach to investing in education is deemed a worthwhile and undeniable priority.\n\n
+        Acknowledging the critical connection between education and the health industry, Unilab Foundation (ULF) leads the conversations on this intersection by exploring an academic partnership with the Philippine Women’s University (PWU). ULF and PWU discussed avenues for cross-border collaboration on programs and local research studies aimed at integrating academe with industry.\n\n
+        “Our model focuses on partnering with existing colleges and universities to ensure that industry is not only linked but integrated with the academe,” said Unilab Foundation executive director Jose Maria Ochave.\n\n
+        “I was pleasantly surprised by the number of PWU’s health care-related courses, which is perfect for developing our Human Resources for Health.”\n\n
+        Among PWU’s health sciences programs are Medical Technology, Nursing, Pharmacy, and Nutrition and Dietetics.\n\n
+        In addition, the university offers a diverse range of programs in Arts and Sciences, Business, Music, and Fine Arts and Design.\n\n
+        Ochave adds that as the country advances toward UHC, there is potential for PWU, in collaboration with the Unilab Foundation, to play a significant role in capacitating global health personnel and officials.\n\n
+    </string>
+
+</resources>

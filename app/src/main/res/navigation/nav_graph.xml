@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/newsHeadlineFragment">
+
+    <fragment
+        android:id="@+id/newsHeadlineFragment"
+        android:name="com.capuras.listfragment.NewsHeadlineFragment"
+        android:label="News Headlines"
+        tools:layout="@layout/fragment_news_headline">
+        <action
+            android:id="@+id/action_to_newsDetailFragment"
+            app:destination="@id/newsDetailFragment"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/newsDetailFragment"
+        android:name="com.capuras.listfragment.NewsDetailFragment"
+        android:label="News Details"
+        tools:layout="@layout/fragment_news_detail">
+    <argument
+        android:name="newsItem"
+        app:argType="com.capuras.listfragment.News"
+        />
+    </fragment>
+</navigation>
