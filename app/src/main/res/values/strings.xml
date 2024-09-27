@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="go_to_fragment">Go to Fragment</string>
+    <string name="show_dialog_fragment">Show Dialog Fragment</string>
+    <string name="exit">Exit</string>
+    <string name="exit_app">Exit App</string>
+    <string name="title">TITLE\n\n</string>
+    <string name="message">Message....</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_title">Enter title</string>
+    <string name="enter_message">Enter message</string>
+</resources>
