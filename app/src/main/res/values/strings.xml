@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">BottomNav</string>
+    <string name="ad_student_information">Add Student Information</string>
+    <string name="id_number">ID Number</string>
+    <string name="given_name">Given Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="course">Course:</string>
+    <string-array name="courses">
+        <item>BSIT</item>
+        <item>BSIS</item>
+        <item>ANIM</item>
+        <item>BSHM</item>
+        <item>BSHRM</item>
+        <item>BST</item>
+        <item>BSTM</item>
+        <item>BSA</item>d
+        <item>BSBA</item>
+        <item>BSN</item>
+        <item>BSMT</item>
+        <item>BSCRIM</item>
+        <item>OTHERS</item>d
+    </string-array>
+    <string name="year">Year Level:</string>
+    <string-array name="year_level">
+        <item>1st</item>
+        <item>2nd</item>
+        <item>3rd</item>
+        <item>4th</item>
+    </string-array>
+    <string name="semester">Semester:</string>
+    <string name="_1st_sem">1st Sem</string>
+    <string name="_2nd_sem">2nd Sem</string>
+    <string name="summer">Summer</string>
+    <string name="submit">Submit</string>
+    <string name="list">List</string>
+    <string name="add_student">Add Student</string>
+    <string name="id_number_title">Id Number:</string>
+    <string name="given_name_">Given Name:</string>
+    <string name="middle_name_">Middle Name:</string>
+    <string name="course_">Course</string>
+    <string name="year_">Year</string>
+    <string name="semester_">Semester</string>
+    <string name="first_number">First Number\n</string>
+    <string name="second_number">Second Number\n</string>
+    <string name="result">Result</string>
+    <string name="add">+\n</string>
+    <string name="subtract">-</string>
+    <string name="multiply">*</string>
+    <string name="divide">/</string>
+    <string name="invalid_number">Invalid Number</string>
+    <string name="enter_number">Enter value for both numbers</string>
+    <string name="calculator">Calculator</string>
+
+</resources>
